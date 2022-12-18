@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+}
+.card {
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #ddebf8;
+    width: 500px;
+    text-align: center;
+    border-bottom: solid 6px #d8cefe;
+    margin: 0px auto;
+    border-radius: 20px;
+    border-left: #b8c4cf solid 4px;
+}
+.card_info {
+    margin-left: 20px;
+    padding: 5px 20px 5px 5px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    text-align: center;
+    border-left: rgb(224, 211, 193) solid 3px;
+}
+.italic {
+    font-style: italic;
+}
+img {
+    border-radius: 20px;
+    border-left: solid 3px gray;
+}
